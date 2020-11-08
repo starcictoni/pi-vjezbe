@@ -25,7 +25,7 @@ license: CC BY-SA
 2. Nadogradi funkciju iz zadaće **JS302** na način da se obrišu suvišni uzastopni znakovi:
 
   ```javascript
-  INPUT = ["banaana, jabuukka", "j1agoda", ""]
+  INPUT = ["banaana", "jabuukka", "j1agoda", ""]
   OUTPUT = f(INPUT) //["banana", "jabuka", "j1agoda", ""]
   ```
 
